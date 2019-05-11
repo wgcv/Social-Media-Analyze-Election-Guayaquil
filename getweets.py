@@ -1,10 +1,10 @@
 import csv
 import twitter
 api = twitter.Api(
-    consumer_key='KaeOH2wf6NTDE7LiRAfvauLDm',
-    consumer_secret='wMUWjqzUYIcQipJzU7zu2ES15APWwt0dcu5ON2QqK9JKCLbXER',
-    access_token_key='39126776-nizNl9KPRqKwpU4sAHWiopTxltqP8s3SThzNHUoz7',
-    access_token_secret='JQRX2HAPvLHGFYNJUS8LCWAtOqbIWJ73lcjNWieQqtUU2')
+    consumer_key='',
+    consumer_secret='',
+    access_token_key='',
+    access_token_secret='')
 
 hashtags_to_track = [
     "@jimmyjairala",
